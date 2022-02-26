@@ -1,0 +1,15 @@
+2019-10-28 20:41:21.821 [main] WARN  org.springframework.boot.actuate.endpoint.EndpointId.logWarning:135 - Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+2019-10-28 20:41:33.942 [main] WARN  org.apache.curator.CuratorZookeeperClient.<init>:96 - session timeout [5000] is less than connection timeout [15000]
+2019-10-28 20:41:41.357 [scheduling-1] WARN  com.netflix.config.sources.URLConfigurationSource.<init>:121 - No URLs will be polled as dynamic configuration sources.
+2019-10-28 20:41:42.951 [main] WARN  com.netflix.config.sources.URLConfigurationSource.<init>:121 - No URLs will be polled as dynamic configuration sources.
+2019-10-28 20:41:57.618 [main] WARN  o.s.cloud.netflix.core.CoreAutoConfiguration.<init>:37 - This module is deprecated. It will be removed in the next major release. Please use spring-cloud-netflix-hystrix instead.
+2019-10-28 20:55:54.230 [main] WARN  org.springframework.boot.actuate.endpoint.EndpointId.logWarning:135 - Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+2019-10-28 20:56:02.981 [main] WARN  org.apache.curator.CuratorZookeeperClient.<init>:96 - session timeout [5000] is less than connection timeout [15000]
+2019-10-28 20:56:06.785 [scheduling-1] WARN  com.netflix.config.sources.URLConfigurationSource.<init>:121 - No URLs will be polled as dynamic configuration sources.
+2019-10-28 20:56:07.412 [main] WARN  com.netflix.config.sources.URLConfigurationSource.<init>:121 - No URLs will be polled as dynamic configuration sources.
+2019-10-28 20:56:27.910 [main] WARN  o.s.cloud.netflix.core.CoreAutoConfiguration.<init>:37 - This module is deprecated. It will be removed in the next major release. Please use spring-cloud-netflix-hystrix instead.
+2019-10-28 20:59:33.573 [main] WARN  org.springframework.boot.actuate.endpoint.EndpointId.logWarning:135 - Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+2019-10-28 20:59:45.963 [main] WARN  org.apache.curator.CuratorZookeeperClient.<init>:96 - session timeout [5000] is less than connection timeout [15000]
+2019-10-28 20:59:49.753 [scheduling-1] WARN  com.netflix.config.sources.URLConfigurationSource.<init>:121 - No URLs will be polled as dynamic configuration sources.
+2019-10-28 20:59:50.323 [main] WARN  com.netflix.config.sources.URLConfigurationSource.<init>:121 - No URLs will be polled as dynamic configuration sources.
+2019-10-28 21:00:04.369 [main] WARN  o.s.cloud.netflix.core.CoreAutoConfiguration.<init>:37 - This module is deprecated. It will be removed in the next major release. Please use spring-cloud-netflix-hystrix instead.

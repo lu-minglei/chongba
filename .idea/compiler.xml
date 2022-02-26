@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="chongba_recharge_mock" />
+        <module name="chongba_schedule_service" />
+        <module name="chongba_schedule_job" />
+        <module name="chongba_schedule_feign" />
+        <module name="chongba_recharge_trade" />
+        <module name="chongba_recharge_supplier" />
+        <module name="chongba_recharge_web" />
+        <module name="chongba_common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="chongba_common" target="1.8" />
+      <module name="chongba_parent" target="1.8" />
+      <module name="chongba_recharge_mock" target="1.8" />
+      <module name="chongba_recharge_supplier" target="1.8" />
+      <module name="chongba_recharge_trade" target="1.8" />
+      <module name="chongba_recharge_web" target="1.8" />
+      <module name="chongba_schedule_feign" target="1.8" />
+      <module name="chongba_schedule_job" target="1.8" />
+      <module name="chongba_schedule_service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="chongba_common" options="-parameters" />
+      <module name="chongba_recharge_mock" options="-parameters" />
+      <module name="chongba_recharge_supplier" options="-parameters" />
+      <module name="chongba_recharge_trade" options="-parameters" />
+      <module name="chongba_recharge_web" options="-parameters" />
+      <module name="chongba_schedule_feign" options="-parameters" />
+      <module name="chongba_schedule_job" options="-parameters" />
+      <module name="chongba_schedule_service" options="-parameters" />
+    </option>
+  </component>
+</project>

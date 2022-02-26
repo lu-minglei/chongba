@@ -1,0 +1,64 @@
+2019-10-29 15:40:03.560 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService
+2019-10-29 15:40:03.581 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService 'visiableThreadPool'
+2019-10-29 15:40:08.232 [scheduling-1] INFO  thread.run:95 - schedule-service的从节点进行备份
+2019-10-29 15:40:30.295 [Thread-5] INFO  com.chongba.schedule.service.VisiableThreadPool.shutdown:208 - Shutting down ExecutorService 'visiableThreadPool'
+2019-10-29 16:12:11.290 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService
+2019-10-29 16:12:11.330 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService 'visiableThreadPool'
+2019-10-29 16:12:17.689 [scheduling-1] INFO  thread.run:91 - schedule-service的主节点进行数据恢复---reloadData
+2019-10-29 16:12:26.341 [scheduling-1] INFO  thread.reloadData:147 - 数据恢复完成，耗时46
+2019-10-29 16:12:42.058 [Thread-9] INFO  com.chongba.schedule.service.VisiableThreadPool.shutdown:208 - Shutting down ExecutorService 'visiableThreadPool'
+2019-10-29 16:14:23.957 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService
+2019-10-29 16:14:23.991 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService 'visiableThreadPool'
+2019-10-29 16:14:27.504 [scheduling-1] INFO  thread.run:91 - schedule-service的主节点进行数据恢复---reloadData
+2019-10-29 16:14:32.652 [scheduling-1] INFO  thread.reloadData:147 - 数据恢复完成，耗时47
+2019-10-29 16:14:44.845 [Thread-9] INFO  com.chongba.schedule.service.VisiableThreadPool.shutdown:208 - Shutting down ExecutorService 'visiableThreadPool'
+2019-10-29 16:16:17.320 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService
+2019-10-29 16:16:17.359 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService 'visiableThreadPool'
+2019-10-29 16:16:21.416 [scheduling-1] INFO  thread.run:91 - schedule-service的主节点进行数据恢复---reloadData
+2019-10-29 16:16:28.504 [scheduling-1] INFO  thread.reloadData:147 - 数据恢复完成，耗时19
+2019-10-29 16:17:25.530 [scheduling-1] INFO  thread.run:91 - schedule-service的主节点进行数据恢复---reloadData
+2019-10-29 16:17:28.059 [Thread-9] INFO  com.chongba.schedule.service.VisiableThreadPool.shutdown:208 - Shutting down ExecutorService 'visiableThreadPool'
+2019-10-29 16:17:58.189 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService
+2019-10-29 16:17:58.228 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService 'visiableThreadPool'
+2019-10-29 16:18:01.644 [scheduling-1] INFO  thread.run:91 - schedule-service的主节点进行数据恢复---reloadData
+2019-10-29 16:18:07.801 [scheduling-1] INFO  thread.reloadData:147 - 数据恢复完成，耗时22
+2019-10-29 16:19:01.730 [scheduling-1] INFO  thread.run:91 - schedule-service的主节点进行数据恢复---reloadData
+2019-10-29 16:19:03.676 [scheduling-1] INFO  thread.reloadData:147 - 数据恢复完成，耗时465
+2019-10-29 16:19:41.699 [Thread-9] INFO  com.chongba.schedule.service.VisiableThreadPool.shutdown:208 - Shutting down ExecutorService 'visiableThreadPool'
+2019-10-29 16:20:57.650 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService
+2019-10-29 16:20:57.686 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService 'visiableThreadPool'
+2019-10-29 16:21:01.029 [scheduling-1] INFO  thread.run:91 - schedule-service的主节点进行数据恢复---reloadData
+2019-10-29 16:21:07.071 [scheduling-1] INFO  thread.reloadData:147 - 数据恢复完成，耗时20
+2019-10-29 16:25:09.343 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService
+2019-10-29 16:25:09.425 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService 'visiableThreadPool'
+2019-10-29 16:25:13.530 [scheduling-1] INFO  thread.run:91 - schedule-service的主节点进行数据恢复---reloadData
+2019-10-29 16:25:20.937 [scheduling-1] INFO  thread.reloadData:147 - 数据恢复完成，耗时26
+2019-10-29 16:26:13.934 [scheduling-1] INFO  thread.run:91 - schedule-service的主节点进行数据恢复---reloadData
+2019-10-29 16:26:18.295 [scheduling-1] INFO  thread.reloadData:147 - 数据恢复完成，耗时66
+2019-10-29 16:27:31.524 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService
+2019-10-29 16:27:31.565 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService 'visiableThreadPool'
+2019-10-29 16:27:35.582 [scheduling-1] INFO  thread.run:91 - schedule-service的主节点进行数据恢复---reloadData
+2019-10-29 16:27:43.009 [scheduling-1] INFO  thread.reloadData:147 - 数据恢复完成，耗时20
+2019-10-29 16:28:03.966 [Thread-9] INFO  com.chongba.schedule.service.VisiableThreadPool.shutdown:208 - Shutting down ExecutorService 'visiableThreadPool'
+2019-10-29 16:46:15.868 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService
+2019-10-29 16:46:15.894 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService 'visiableThreadPool'
+2019-10-29 16:46:19.364 [scheduling-1] INFO  thread.run:91 - schedule-service的主节点进行数据恢复---reloadData
+2019-10-29 16:46:25.403 [scheduling-1] INFO  thread.reloadData:147 - 数据恢复完成，耗时31
+2019-10-29 16:46:42.076 [Thread-9] INFO  com.chongba.schedule.service.VisiableThreadPool.shutdown:208 - Shutting down ExecutorService 'visiableThreadPool'
+2019-10-29 17:05:13.411 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService
+2019-10-29 17:05:13.465 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService 'visiableThreadPool'
+2019-10-29 17:05:19.850 [scheduling-1] INFO  thread.run:91 - schedule-service的主节点进行数据恢复---reloadData
+2019-10-29 17:05:28.281 [scheduling-1] INFO  thread.reloadData:147 - 数据恢复完成，耗时62
+2019-10-29 17:05:48.037 [Thread-9] INFO  com.chongba.schedule.service.VisiableThreadPool.shutdown:208 - Shutting down ExecutorService 'visiableThreadPool'
+2019-10-29 21:02:34.086 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService
+2019-10-29 21:02:34.131 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService 'visiableThreadPool'
+2019-10-29 21:02:40.008 [scheduling-1] INFO  thread.run:91 - schedule-service的主节点进行数据恢复---reloadData
+2019-10-29 21:02:54.610 [scheduling-1] INFO  thread.reloadData:147 - 数据恢复完成，耗时129
+2019-10-29 21:03:08.973 [Thread-9] INFO  com.chongba.schedule.service.VisiableThreadPool.shutdown:208 - Shutting down ExecutorService 'visiableThreadPool'
+2019-10-29 21:04:01.300 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService
+2019-10-29 21:04:01.382 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService 'visiableThreadPool'
+2019-10-29 21:04:07.668 [scheduling-1] INFO  thread.run:91 - schedule-service的主节点进行数据恢复---reloadData
+2019-10-29 21:04:16.467 [scheduling-1] INFO  com.chongba.schedule.service.VisiableThreadPool.logs:32 - prefix=visiableThreadPool-,info=do execute,taskCount=1,completedCount=0,activeCount=1,queueSize=0
+2019-10-29 21:04:17.296 [visiableThreadPool-1] INFO  thread.run:138 - 当前线程名称visiableThreadPool-1,计数器的值0,当前分组数据恢复的时间849
+2019-10-29 21:04:17.296 [scheduling-1] INFO  thread.reloadData:147 - 数据恢复完成，耗时849
+2019-10-29 21:04:31.354 [Thread-9] INFO  com.chongba.schedule.service.VisiableThreadPool.shutdown:208 - Shutting down ExecutorService 'visiableThreadPool'

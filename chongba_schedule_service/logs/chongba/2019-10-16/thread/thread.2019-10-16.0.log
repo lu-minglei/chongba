@@ -1,0 +1,12 @@
+2019-10-16 17:55:54.584 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService
+2019-10-16 17:55:54.599 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService 'visiableThreadPool'
+2019-10-16 17:55:59.007 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.logs:32 - prefix=visiableThreadPool-,info=do execute,taskCount=1,completedCount=0,activeCount=1,queueSize=0
+2019-10-16 17:55:59.008 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.logs:32 - prefix=visiableThreadPool-,info=do execute,taskCount=2,completedCount=0,activeCount=2,queueSize=0
+2019-10-16 17:55:59.009 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.logs:32 - prefix=visiableThreadPool-,info=do execute,taskCount=3,completedCount=0,activeCount=3,queueSize=0
+2019-10-16 17:55:59.219 [visiableThreadPool-3] INFO  thread.run:97 - 当前线程名称visiableThreadPool-3,计数器的值2,当前分组数据恢复的时间215
+2019-10-16 17:55:59.246 [visiableThreadPool-2] INFO  thread.run:97 - 当前线程名称visiableThreadPool-2,计数器的值1,当前分组数据恢复的时间242
+2019-10-16 17:55:59.251 [visiableThreadPool-1] INFO  thread.run:97 - 当前线程名称visiableThreadPool-1,计数器的值0,当前分组数据恢复的时间247
+2019-10-16 17:55:59.251 [main] INFO  thread.syncData:106 - 数据恢复完成，耗时247
+2019-10-16 17:56:02.826 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.logs:32 - prefix=visiableThreadPool-,info=do submit,taskCount=4,completedCount=3,activeCount=1,queueSize=0
+2019-10-16 17:56:03.006 [scheduling-1] INFO  com.chongba.schedule.service.VisiableThreadPool.logs:32 - prefix=visiableThreadPool-,info=do execute,taskCount=5,completedCount=3,activeCount=2,queueSize=0
+2019-10-16 17:56:04.471 [Thread-2] INFO  com.chongba.schedule.service.VisiableThreadPool.shutdown:208 - Shutting down ExecutorService 'visiableThreadPool'

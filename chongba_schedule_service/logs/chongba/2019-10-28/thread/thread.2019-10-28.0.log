@@ -1,0 +1,19 @@
+2019-10-28 20:41:26.916 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService
+2019-10-28 20:41:26.962 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService 'visiableThreadPool'
+2019-10-28 20:41:36.433 [scheduling-1] INFO  thread.run:91 - schedule-service的主节点进行数据恢复---reloadData
+2019-10-28 20:41:48.414 [scheduling-1] INFO  thread.reloadData:147 - 数据恢复完成，耗时43
+2019-10-28 20:42:03.099 [Thread-9] INFO  com.chongba.schedule.service.VisiableThreadPool.shutdown:208 - Shutting down ExecutorService 'visiableThreadPool'
+2019-10-28 20:55:59.912 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService
+2019-10-28 20:55:59.949 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService 'visiableThreadPool'
+2019-10-28 20:56:04.458 [scheduling-1] INFO  thread.run:91 - schedule-service的主节点进行数据恢复---reloadData
+2019-10-28 20:56:11.160 [scheduling-1] INFO  com.chongba.schedule.service.VisiableThreadPool.logs:32 - prefix=visiableThreadPool-,info=do execute,taskCount=1,completedCount=0,activeCount=1,queueSize=0
+2019-10-28 20:56:12.214 [visiableThreadPool-1] INFO  thread.run:138 - 当前线程名称visiableThreadPool-1,计数器的值0,当前分组数据恢复的时间1085
+2019-10-28 20:56:12.215 [scheduling-1] INFO  thread.reloadData:147 - 数据恢复完成，耗时1086
+2019-10-28 20:56:32.851 [Thread-9] INFO  com.chongba.schedule.service.VisiableThreadPool.shutdown:208 - Shutting down ExecutorService 'visiableThreadPool'
+2019-10-28 20:59:43.023 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService
+2019-10-28 20:59:43.061 [main] INFO  com.chongba.schedule.service.VisiableThreadPool.initialize:171 - Initializing ExecutorService 'visiableThreadPool'
+2019-10-28 20:59:47.405 [scheduling-1] INFO  thread.run:91 - schedule-service的主节点进行数据恢复---reloadData
+2019-10-28 20:59:54.380 [scheduling-1] INFO  com.chongba.schedule.service.VisiableThreadPool.logs:32 - prefix=visiableThreadPool-,info=do execute,taskCount=1,completedCount=0,activeCount=1,queueSize=0
+2019-10-28 20:59:55.246 [visiableThreadPool-1] INFO  thread.run:138 - 当前线程名称visiableThreadPool-1,计数器的值0,当前分组数据恢复的时间892
+2019-10-28 20:59:55.247 [scheduling-1] INFO  thread.reloadData:147 - 数据恢复完成，耗时893
+2019-10-28 21:00:09.269 [Thread-9] INFO  com.chongba.schedule.service.VisiableThreadPool.shutdown:208 - Shutting down ExecutorService 'visiableThreadPool'
